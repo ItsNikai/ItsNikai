@@ -28,7 +28,8 @@ _Working on some projects during my formation. Stay tuned!_
 
 ### 📊 GitHub Stats
 
-![ItsNikai's Stats](https://github-readme-stats.vercel.app/api?username=ItsNikai&theme=slateorange&show_icons=true&hide_border=true&count_private=false)
+<!-- ![ItsNikai's Stats](https://github-readme-stats.vercel.app/api?username=ItsNikai&theme=slateorange&show_icons=true&hide_border=true&count_private=false) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNikai&theme=slateorange&show_icons=true&hide_border=true)
 
 ### 📫 Let's Connect!
 
