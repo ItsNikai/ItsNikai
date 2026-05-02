@@ -23,14 +23,13 @@ The following technologies represent the skills I've acquired during my Higher T
 ### 🏗️ Projects I've Built
 
 _Working on some projects during my formation. Stay tuned!_
-
+<!--
 ---
 
 ### 📊 GitHub Stats
 
-<!-- ![ItsNikai's Stats](https://github-readme-stats.vercel.app/api?username=ItsNikai&theme=slateorange&show_icons=true&hide_border=true&count_private=false) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNikai&theme=slateorange&show_icons=true&hide_border=true&count_private=false)
-
+-->
 ### 📫 Let's Connect!
 
 I am actively looking for internship opportunities and collaborative projects to expand my skillset. Feel free to reach out!
